@@ -1,0 +1,123 @@
+#navbar {
+    background-color: rgb(192, 127, 43);
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    color: black;
+      
+    
+}
+body{ 
+    background-color: rgb(192, 127, 43);
+}
+
+
+#main {
+    color: black;
+    background-image: url(../bgimg4.jpg);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    /* background-attachment: fixed; */
+    background-color: rgb(78, 65, 65);
+}
+h1{
+    margin-left: 600px;
+     color: rgb(21, 21, 26);
+     font-family: "Dancing Script", cursive;
+     font-size: 50px;
+     
+}
+
+.col {
+    width: 400px;
+    height: 500px;
+    background-color: rgb(229, 235, 235);
+    border: solid 5px;
+    float: left;
+    margin: 30px; border: 2px; border-color: black;
+    align-items: center;
+}
+
+div img {
+    width: 100%;
+    height: 200px;
+}
+
+button {
+    margin-left: 160px;
+    background-color: bisque;
+    background-color: rgb(119, 34, 28);
+    margin-right: 150px;
+    margin-top: 50px;
+    size: 90px;
+ 
+}
+.head{
+    text-align: center;
+}
+.Listitems{
+    list-style: none;
+    display: inline;
+    
+} 
+.links{
+    text-decoration: none;
+    color: black;
+    padding: 20px; margin-right: 20px;
+}
+.links:hover{
+    text-decoration:solid;
+    color: rgb(165, 30, 30);
+
+}
+p{
+    text-justify: distribute;
+}
+.footer-content{
+background-color: rgb(151, 105, 36);
+display: flex;
+padding-bottom: 80px;
+padding-left: 80px;
+font-size: 15px;
+font-family: "Dancing Script", cursive;
+margin-top: 100%;
+padding-top: 100px;
+align-items: center;
+}
+p{
+    text-align: center;
+    padding: 30px;
+}
+.c1{
+    
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-evenly; 
+    margin: 0px 100px;
+align-items: center;
+}
+.c2{
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between; 
+    margin-left: 100px;
+}
+
+.c4{
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;  
+    margin-left: 100px;
+}
+.ex{
+    padding-right: 700px;
+    padding-left:  30px; ;
+}
+.rmbg{
+margin: 
+}
+
